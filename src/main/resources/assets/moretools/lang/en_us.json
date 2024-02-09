@@ -1,0 +1,36 @@
+{
+  "item.moretools.wooden_paxel": "Wooden Paxel",
+  "item.moretools.stone_paxel": "Stone Paxel",
+  "item.moretools.iron_paxel": "Iron Paxel",
+  "item.moretools.golden_paxel": "Golden Paxel",
+  "item.moretools.diamond_paxel": "Diamond Paxel",
+  "item.moretools.netherite_paxel": "Netherite Paxel",
+  "item.moretools.enderite_paxel": "Enderite Paxel",
+
+  "item.moretools.enderite_helmet": "Enderite Helmet",
+  "item.moretools.enderite_chestplate": "Enderite Chestplate",
+  "item.moretools.enderite_leggings": "Enderite Leggings",
+  "item.moretools.enderite_boots": "Enderite Boots",
+
+  "item.moretools.enderite_axe": "Enderite Axe",
+  "item.moretools.enderite_pickaxe": "Enderite Pickaxe",
+  "item.moretools.enderite_shovel": "Enderite Shovel",
+  "item.moretools.enderite_hoe": "Enderite Hoe",
+  "item.moretools.enderite_sword": "Enderite Sword",
+
+  "item.moretools.enderite_nugget": "Enderite Nugget",
+  "item.moretools.enderite_ingot": "Enderite Ingot",
+
+
+  "item.moretools.enderite_upgrade_smithing_template": "Smithing Template",
+  "item.moretools.smithing_template.enderite_upgrade.applies_to": "Netherite Equipment",
+  "item.moretools.smithing_template.enderite_upgrade.ingredients": "Enderite Ingot",
+  "block.moretools.enderite_ore": "Enderite Ore",
+
+
+  "upgrade.moretools.enderite_upgrade": "Enderite Upgrade",
+
+  "enchantment.moretools.hammering": "Hammering",
+
+  "creativetab.moretools": "More Tools"
+}

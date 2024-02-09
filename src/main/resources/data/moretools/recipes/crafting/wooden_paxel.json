@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "spa",
+    " t ",
+    " t "
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:wooden_shovel"
+    },
+    "p": {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    "a": {
+      "item": "minecraft:wooden_axe"
+    },
+    "t": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moretools:wooden_paxel",
+    "count": 1
+  }
+}

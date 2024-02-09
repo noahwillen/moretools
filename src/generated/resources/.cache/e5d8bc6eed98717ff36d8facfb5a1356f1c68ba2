@@ -1,0 +1,4 @@
+// 1.20.1	2024-02-09T13:19:26.0599608	Global Loot Modifiers : moretools
+b0a1110562a4d0a2963043ab03adc3c51a16847f data/forge/loot_modifiers/global_loot_modifiers.json
+5eaae7e1ddae0fd841efe24fe889c07a710354a7 data/moretools/loot_modifiers/enderite_upgrade_template_from_end_city.json
+9436b3845df055bf64a347f431e058d07008e15d data/moretools/loot_modifiers/hammering_book_from_village_toolsmith.json

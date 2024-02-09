@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "spa",
+    " t ",
+    " t "
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:golden_shovel"
+    },
+    "p": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "a": {
+      "item": "minecraft:golden_axe"
+    },
+    "t": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moretools:golden_paxel",
+    "count": 1
+  }
+}

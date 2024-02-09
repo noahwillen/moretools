@@ -1,0 +1,4 @@
+// 1.20.1	2024-01-29T14:20:17.9331637	Registries
+02152cc57a8237573c1257eb9fff21f977ddd257 data/moretools/forge/biome_modifier/add_enderite_ore.json
+d3caebc573bf3dad579dc011e8faa1d7791e84d1 data/moretools/worldgen/configured_feature/enderite_ore.json
+f6bf85ed79adf44be5510b7ea25d34331ebfe8f4 data/moretools/worldgen/placed_feature/enderite_ore_placed.json

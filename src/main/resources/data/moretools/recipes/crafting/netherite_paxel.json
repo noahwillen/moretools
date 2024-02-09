@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "spa",
+    " t ",
+    " t "
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "p": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "a": {
+      "item": "minecraft:netherite_axe"
+    },
+    "t": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moretools:netherite_paxel",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "moretools:add_enchanted_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/village/village_toolsmith"
+    },
+    {
+      "chance": 0.5,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "enchantment": "moretools:hammering",
+  "item": "minecraft:enchanted_book"
+}
